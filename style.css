@@ -1,0 +1,17 @@
+body {
+    background-color: #112;
+    color: #EEE;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+#div {
+    display: flex;
+    flex-flow: column wrap;
+    max-height: 100vh;
+}
+.item {
+    background-color: #222233;
+    padding: 0px 0px 0px 10px;
+    margin: 5px;
+}
